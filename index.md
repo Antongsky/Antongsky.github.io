@@ -9,5 +9,5 @@
  
 ## What's new
 
-[![](/Activity_by_time/2022.3.18/未标题-2.png)](/Activity_by_time/2022.3.18/cherry_blossom.html)
+[![](/Activity_by_time/2022.3.18/未标题-22.png)](/Activity_by_time/2022.3.18/cherry_blossom.html)
 
