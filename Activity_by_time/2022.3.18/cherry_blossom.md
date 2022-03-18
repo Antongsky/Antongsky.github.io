@@ -7,7 +7,7 @@
   Firstly I noticed cherry blossoms on the lawn near the sidewalk. They were planted there just a few years ago, and are actually very small, not like those in the anime which are tall and big. 
   But I have to be appreciative because, on every tree, there hang so many flowers! 
   
-  ![](/Activity_by_time/2022.3.18/海宁2022.31 蔷薇科 东京樱花)
+  ![](/Activity_by_time/2022.3.18/海宁2022.31 蔷薇科 东京樱花.JPG)
   
   These cherry blossoms are all Tokyo cherries (Prunus × yedoensis), which is a hybrid species. It looks fragile if you stand near enough to look at it. When standing far away from the bush, they look a bit red.
   The next station is "Dangxiao", a communist school. In front of the school, there are several BIG and TALL sakura trees planted there. I was so amazed because it's rare to see so tall a cherry blossom like this in China, and I had never seen such a big cherry tree before. 
