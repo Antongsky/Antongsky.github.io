@@ -1,4 +1,4 @@
-## 2022.3.23 ICPIP bird watching teams first observation！
+## 2022.3.23 ICPIP bird watching teams first observation!
   ICPIP program is a plant investigation program that aims to find out all the plant species in the international campus, ZJU. 
   As we cooperate with professor Liang's Campus Creature Capturing Program, we've organized a new group-bird watching group.
   
