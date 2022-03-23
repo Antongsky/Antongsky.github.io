@@ -9,6 +9,8 @@
  
 ## What's new
 
+[![](/Activity_by_time/2022.3.23/pic/网站标签格式.png)](/Activity_by_time/2022.3.23/bird_watching.md)
+
 [![](/Activity_by_time/2022.3.19/pic/网站标签格式.png)](/Activity_by_time/2022.3.19/vegetable_harvest.html)
 
 [![](/Activity_by_time/2022.3.18/未标题-22.png)](/Activity_by_time/2022.3.18/cherry_blossom.html)
