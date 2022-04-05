@@ -7,7 +7,11 @@
   
   Actually, two days ago the Haining city terminated the traveling restriction because of the relief of the pandemic. All the public transport vehicles had come to normal so we could go to Hangzhou freely again. Also, the weather these days had been so good so it was a good time for traveling and having a spring tour. Exhilarated I went to Hangzhou.
   
-  But the bad news came -Three were covid cases in  Haining again! When I woke up in the morning I was sorrowful because I was not sure whether there would be new traveling restrictions, but that doesn't matter, I thought. Because I'd booked the school bus from Yuquan Campus to the Haining campus, if taking the intercity railway became a real problem, I could take the school and went back to the Haining campus as well. Actually, in the afternoon, I did take the school bus. When the bus finally took off, I felt relaxed and safe, knowing I would be back in one or two hours. However, I was devastated that after docking at the Zijinggang Campus, the bus seemed to be driving on the wrong road. It didn't take much time before I noticed we were heading back to Yuquan!!
+  But the bad news came -Three were covid cases in  Haining again! When I woke up in the morning I was sorrowful because I was not sure whether there would be new traveling restrictions, but that doesn't matter, I thought. Because I'd booked the school bus from Yuquan Campus to the Haining campus, if taking the intercity railway became a real problem, I could take the school and went back to the Haining campus as well. Actually, in the afternoon, I did take the school bus. When the bus finally took off, I felt relaxed and safe, knowing I would be back in one or two hours. 
+  
+  ![](/Activity_by_time/2022.4.3/pic/1.jpg)
+  
+  However, I was devastated that after docking at the Zijinggang Campus, the bus seemed to be driving on the wrong road. It didn't take much time before I noticed we were heading back to Yuquan!!
   
   My heart became cold to the core. But luckily there was just one station on the intercity railway that was closed, so it was possible that I took the metro, stopped at that station, took a taxi, and took the intercity railway train to the next station. But, but...
   
