@@ -9,6 +9,8 @@
  
 ## What's new
 
+[![](/Activity_by_time/2022.4.9/pic/网站标签格式.png)](/Activity_by_time/2022.4.9/stargazing.html)
+
 [![](/Activity_by_time/2022.4.3/pic/网站标签格式.png)](/Activity_by_time/2022.4.3/experience_in_hangzhou.html)
 
 [![](/Activity_by_time/2022.3.27/pic/网站标签格式.png)](/Activity_by_time/2022.3.27/ECO_activity.html)
