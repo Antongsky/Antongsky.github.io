@@ -31,4 +31,8 @@
   
   Morning came, with a huge egg-like sun jumping up the horizon. Everything began to warm up. When looking back, windows of some distant high buildings had been dyed golden by the sunlight.
   
-  []()
+  ![](/Activity_by_time/2022.4.9/pic/IMG_0284_1_11zon.jpg)
+  
+  ![](/Activity_by_time/2022.4.9/pic/IMG_0292_2_11zon.jpg)
+  
+  ![](/Activity_by_time/2022.4.9/pic/IMG_0321_3_11zon.jpg)
