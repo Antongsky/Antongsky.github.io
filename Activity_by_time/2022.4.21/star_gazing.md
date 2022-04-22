@@ -15,8 +15,8 @@ Trying new methods to shoot stars
   
   Later on, we also observed αUMa, which is a visual binary. Because the separation is too small, we could only see two stars stick to each other. By manipulating the photo later with photoshop, I was able to make them more clear.
   
-  ![](Activity_by_time/2022.4.21/pic/1.jpg)
+  ![](/Activity_by_time/2022.4.21/pic/1_1_11zon.jpg)
   
-  ![](Activity_by_time/2022.4.21/pic/2.jpg)
+  ![](/Activity_by_time/2022.4.21/pic/2_2_11zon.jpg)
   
   
