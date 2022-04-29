@@ -9,7 +9,7 @@
  
 ## What's new
 
-[![](/Activity_by_time/2022.4.29/pic/网站标签格式.png)](/Activity_by_time/2022.4.20/bird_watching_report.html)
+[![](/Activity_by_time/2022.4.29/pic/网站标签格式.png)](/Activity_by_time/2022.4.29/bird_watching_report.html)
 
 [![](/Activity_by_time/2022.4.21/pic/网站标签格式.png)](/Activity_by_time/2022.4.21/star_gazing.html)
 
