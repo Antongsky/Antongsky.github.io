@@ -1,3 +1,3 @@
-## Bird watching report, written in Chinese. 
+## 2022 Spring Bird watching report, written in Chinese. 
 
-![](Activity_by_time/2022.4.29/pic/1.png)
+![](/Activity_by_time/2022.4.29/pic/1.jpg)
