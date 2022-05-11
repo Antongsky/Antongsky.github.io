@@ -13,10 +13,10 @@ PGLO: The plasmid. AMP: a antibiotic. ARA: A substance that can facilitate the e
 
 Outcome: 1 Lots of bacteria. Too much to seperate into dots. 2 No bacteria. Because AMP was added and bacteria were not transinfected. 3 A few bacteria dots. Only bacteria that were transinfected could survive (PGLO had also inserted anti-AMP gene). 4 A few bacteria dots that can show fluorescene.
 
-[](/tags/2022.5.10/pic/1.jpg)
+![](/tags/2022.5.10/pic/1.jpg)
 
-[](/tags/2022.5.10/pic/2.jpg)
+![](/tags/2022.5.10/pic/2.jpg)
 
-[](/tags/2022.5.10/pic/3.jpg)
+![](/tags/2022.5.10/pic/3.jpg)
 
-[](/tags/2022.5.10/pic/4.jpg)
+![](/tags/2022.5.10/pic/4.jpg)
