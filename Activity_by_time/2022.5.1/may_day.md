@@ -34,9 +34,9 @@
   
 今回もいろいろな鳥の写真を撮った。もう超満足しました！
 
-![](/Activity_by_time/2022.5.1/pic/1.jpg)　山ベーリ
+![](/Activity_by_time/2022.5.1/pic/１.jpg)　山ベーリ
 
-![](pic/2.jpg) 燕のうち
+![](/Activity_by_time/2022.5.1/pic/２.jpg) 燕のうち
   
 
 ## 5月3日　陳さんといっしょに海辺へいきます！
@@ -47,11 +47,11 @@
   
 具体的な内容を時間がないのために記載しない。
 
-![](3.jpg)
+![](/Activity_by_time/2022.5.1/pic/３.jpg)
 
-![](4.jpg)
+![](/Activity_by_time/2022.5.1/pic/４.jpg)
 
-![](5.jpg)
+![](/Activity_by_time/2022.5.1/pic/５.jpg)
 
 
   
