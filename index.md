@@ -9,6 +9,8 @@
  
 ## What's new
 
+[![](/tags/2022.5.18/pic/tag.png)](/tags/2022.5.18/debate.html)
+
 [![](/tags/2022.5.10/pic/tags.png)](/tags/2022.5.10/ecoli_plasmid.html)
 
 [![](/Activity_by_time/5.7/pic/网站标签格式.png)](/Activity_by_time/5.7/haiyan_bird_watching.html)
