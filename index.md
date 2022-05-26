@@ -9,7 +9,7 @@
  
 ## What's new
 
-[![](/Activity_by_time/2022.5.21/pic/网站标签格式.jpg)](/Activity_by_time/2022.5.21/xixiwetland.html)
+[![](/Activity_by_time/2022.5.21/pic/网站标签格式.jpg)](/Activity_by_time/2022.5.21/xixiwetlant.html)
 
 [![](/tags/2022.5.18/pic/tag.png)](/tags/2022.5.18/debate.html)
 
