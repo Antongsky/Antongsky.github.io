@@ -9,6 +9,8 @@
  
 ## What's new
 
+[![](/Activity_by_time/2022.6.29/pic/网站标签格式.png)](/Activity_by_time/2022.6.29/lab.html)
+
 [![](/Activity_by_time/2022.6.16/pic/网站标签格式.png)](/Activity_by_time/2022.6.16/fireflies.html)
 
 [![](/Activity_by_time/2022.5.21/pic/网站标签格式.jpg)](/Activity_by_time/2022.5.21/xixiwetlant.html)
