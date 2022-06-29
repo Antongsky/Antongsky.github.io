@@ -25,4 +25,10 @@ Experience working in the lab
  During the experimentation, however, I also noticed something that I have always been thinking wrong. Working in the lab is not always creative and interesting. There are lots of monotonous manipulations that you have to do daily, such as growing seeds, and making culture mediums. Most of the manipulations should be done carefully and attentively, following protocols. Experimenters are like workers in the factory, doing rigid steps that have been planned by others. So strictly this kind of working in the lab is merely “working”, but not creating and discovering. People in the lab are also easily fallen into daily routines, be stuck in the daily ruts, and follow the protocol of life. The true spirit of being a scientist, I think, is always keeping a curious mind, being able to discover problems, and being equipped with the ability to solve them. A true scientist is always lively, keen, and full of go.
  
  Now, I’m sitting on my sit in the lab office, typing in words and my feelings. There are people sitting near me, using their computers too. The lab really gave me a chance to look into the science workers’ life, scrutinizing what’s going on in their daily life. It also gave me a chance to work in the lab, learning techniques and doing manipulations. These are experiences that I did not ever have. There are also lots of new things and knowledge to learn, such as basic principles and science under each manipulation and the meaning to do it. Except for these, the most important thing I obtained from the lab is that I fixed my deviated impression of the lab and recognized that merely working in the lab does not mean discovering and doing research. It also helps me to redefine what is scientist, what is true science, and what we should do in scientific research.
+ 
+ ![](/Activity_by_time/2022.6.29/pic/1.jpg)
+ 
+ ![](/Activity_by_time/2022.6.29/pic/2.jpg)
+  
+ ![](/Activity_by_time/2022.6.29/pic/3.jpg)
 
