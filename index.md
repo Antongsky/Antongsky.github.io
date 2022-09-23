@@ -9,6 +9,8 @@
  
 ## What's new
 
+[![](/Activity_by_time/2022.9.17/pic/网站标签格式.png)](/Activity_by_time/2022.9.17/investigation.html)
+
 [![](/tags/2022.9.14/pic/tag.png)](/tags/2022.9.14/typhoon.html)
 
 [![](/Activity_by_time/2022.6.29/pic/网站标签格式.png)](/Activity_by_time/2022.6.29/lab.html)
