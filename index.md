@@ -9,6 +9,16 @@
  
 ## What's new
 
+[![](/Activity_by_time/2022.11.22/pic/网站标签格式.png)](/Activity_by_time/2022.11.22/aquarium.html)
+
+[![](/tags/2022.11.22/tag.png)](/tags/2022.11.22/reflect.html)
+
+[![](/Activity_by_time/2022.11.8/pic/网站标签格式.png)](/Activity_by_time/2022.11.8/Moon_eclipse.html)
+
+[![](/Activity_by_time/2022.11.6/pic/网站标签格式.png)](/Activity_by_time/2022.11.6/Beihu_bird_watching.html)
+
+[![](/tags/2022.11/pic/tag.png)](/tags/2022.11/bird_field_guide.html)
+
 [![](/Activity_by_time/2022.9.17/pic/网站标签格式.png)](/Activity_by_time/2022.9.17/investigation.html)
 
 [![](/tags/2022.9.14/pic/tag.png)](/tags/2022.9.14/typhoon.html)
