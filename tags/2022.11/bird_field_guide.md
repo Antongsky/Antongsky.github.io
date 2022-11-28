@@ -8,6 +8,6 @@
  
   I think this is meaningful. It would be better if we do some propaganda.
   
-  ![tags/2022.11/pic/1.jpg]()
+  ![](/tags/2022.11/pic/1.jpg)
   
-   ![tags/2022.11/pic/2.jpg]()
+   ![](/tags/2022.11/pic/2.jpg)
