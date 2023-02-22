@@ -1,4 +1,4 @@
-# 2023.2.15 Observing the comet ZTF with guys in the astronomy club!
+## 2023.2.15 Observing the comet ZTF with guys in the astronomy club!
 I was always interested in comets. Not only because they are rare, but they are also faint to be seen by the naked eye. Comets are also beautiful objects- they have charming tails and are like mops. Pitifully, I missed the neowise comet in the year 2020-the weather at that period of time when the comet was passing the earth was always cloudy, so I did not even get a chance. That neowise was very bright, that one could easily see it with the naked eye.
  
  This time, the comet is ZTF. The comet is not very bright, and the maximum magnitude at the peak when the comet reached the perigee is around 5. Unfortunately, I was on winter vacation so staying at home at that time. The sky condition in my hometown is really hard to be appreciated- even if the sky is clear, the light can light up the dark sky. Plus, it was almost rainy or cloudy around the winter holiday (when the comet reached perigee), so I hardly got the chance to even take out my binocular.
